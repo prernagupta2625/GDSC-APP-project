@@ -17,9 +17,23 @@
     <string name="re_enter_password">Re-Enter password</string>
     <string name="REGISTER">REGISTER</string>
     <string name="e_mail">E-mail</string>
-    <string name="new_rgistrration">New Rgistrration</string>
+    <string name="new_rgistrration">New Account</string>
     <string name="enter_email">Enter email</string>
     <string name="developer_students_club_akgec">Developer Students Club AKGEC</string>
     <string name="logo">LOGO</string>
     <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="wave">wave</string>
+    <string name="domain">domain</string>
+    <string name="cemail">email</string>
+    <string name="phone">phone</string>
+    <string name="year2">year</string>
+    <string name="year1">year</string>
+    <string name="enetr_your_name">Enter your Name</string>
+    <string name="domain_specialisation">Domain specialisation</string>
+    <string name="name">Name</string>
+    <string name="domain">domain</string>
+    <string name="year">year</string>
+    <string name="year">year</string>
+    <string name="year">year</string>
 </resources>

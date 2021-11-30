@@ -2,6 +2,7 @@ package com.example.gdscapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -40,6 +41,8 @@ public class MainActivity2 extends AppCompatActivity {
                         @Override
                         public void onSuccess(AuthResult authResult) {
                             Toast.makeText(MainActivity2.this,"Login Successful",Toast.LENGTH_SHORT).show();
+                            Intent intent=new Intent(MainActivity2.this,MainActivity4.class);
+                            startActivity(intent);
                         }
                     });
                 }

@@ -10,15 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GdscApp">
         <activity
+            android:name=".MainActivity5"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity4"
-            android:exported="false"
-           />
+            android:exported="false" />
         <activity
             android:name=".MainActivity3"
             android:exported="false"
             android:label="Register"
-            android:parentActivityName=".MainActivity"
-            />
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity2"
             android:exported="false"
